@@ -23,7 +23,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <a href="https://explorer-lab-ebon-two.vercel.app/"><img alt="rocketpay" src=".github/project.png" width="100%"></a>
 </p>
 
 ## 🚀 Tecnologias
